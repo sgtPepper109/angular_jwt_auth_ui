@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 70px;
+}
+
+.loginCardDiv {
+  width: 400px;
+}
+
+.showPasswordButtonField {
+  cursor: pointer;
+}
+
+.accountExistStatusInstruction {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.signupLink {
+  color: red;
+}

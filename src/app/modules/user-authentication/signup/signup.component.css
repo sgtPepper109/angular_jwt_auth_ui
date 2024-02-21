@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 70px;
+}
+
+.loginCardDiv {
+  width: 600px;
+}
+
+.showPasswordButtonField {
+  cursor: pointer;
+}
+
+.accountExistStatusInstruction {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loginLink {
+  color: red;
+}
+
+legend .p-fieldset .p-fieldset-legend {
+  background-color: red !important;
+}
